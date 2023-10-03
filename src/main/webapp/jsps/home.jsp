@@ -40,14 +40,14 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+91-9491449072
 		javeedccna@gmail.com
 		<br>
-		<a href="mailto:javeedccna@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:javeedccna@gmail.com">Mail to javeed Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
+<p align=center>javeed Technologies - Consultant, Training, Development Center.</p>
 <p align=center><small>Copyrights 2022 by <a href="http://www.datapro.in/">javeed Technologies,vizag</a> </small></p>
 
 </body>
